@@ -1,0 +1,1 @@
+"""Strict issues-first policy."""
